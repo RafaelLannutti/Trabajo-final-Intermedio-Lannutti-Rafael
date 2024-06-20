@@ -1,0 +1,1 @@
+ No entiendo porque peliculas.db solo se actualiza al cerrar y volver a  abrir el visual studio code 
